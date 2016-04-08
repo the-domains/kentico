@@ -1,7 +1,7 @@
 name: Kentico
 favicon: null
-layout_spectrum: 0.73973
-typography_spectrum: 0.87593
+layout_spectrum: 0.84395
+typography_spectrum: 0.9067
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#f9a61a'
     - '#3298a6'
     - '#323d43'
-  brandStrength: 0.5
+  brandStrength: 0.4375
   lightness: 0.6875
-  saturation: 0.4375
-  rhythmicContrast: 1
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose: []
