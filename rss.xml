@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Kentico]]></title>
         <description><![CDATA[Kentico]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kentico/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 13:36:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Apr 2016 13:37:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kentico/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kentico 9]]></title>
+            <description><![CDATA[<article><h1>Kentico 9</h1><p>The latest release of Kentico was announced in November of 2015.  Kentico 9 was a major release which sought to address a number of long-standing issues with the platform. The new release includes changes which empower system architects and developers with more development options, and important changes which improve development and deployment processes.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/202c5c52-c17e-45b7-b401-c77fad8698ab.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kentico/kentico-9/index.html</link>
+            <guid isPermaLink="false">52f87178-d60a-4457-a2c4-59f46cfeeaea</guid>
+            <pubDate>Fri, 08 Apr 2016 13:36:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kentico 9 release party]]></title>
             <description><![CDATA[<article><h1>Kentico 9 release party</h1><p>What do Kentico MVPs think about Kentico 9? We asked them during the release party!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80f12b1ab4603eb15dca7dcf2af8646d21c086a4.jpg"></article>]]></description>
