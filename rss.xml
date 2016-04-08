@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kentico]]></title>
+        <description><![CDATA[Kentico]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Apr 2016 13:36:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kentico 9 release party]]></title>
+            <description><![CDATA[<article><h1>Kentico 9 release party</h1><p>What do Kentico MVPs think about Kentico 9? We asked them during the release party!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80f12b1ab4603eb15dca7dcf2af8646d21c086a4.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=jr5lnnnZVzg&amp;nohtml5=False</link>
+            <guid isPermaLink="false">7e6e88ed-2cae-4cfc-bb5c-0bff9801c4d6</guid>
+            <pubDate>Fri, 08 Apr 2016 13:36:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
