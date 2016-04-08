@@ -1,19 +1,4 @@
-name: Kentico
-favicon: null
-layout_spectrum: 0.24417
-typography_spectrum: 1
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ef5a20'
@@ -21,8 +6,13 @@ color:
     - '#f9a61a'
     - '#3298a6'
     - '#323d43'
-  brandStrength: 0.5
-  lightness: 0.625
-  saturation: 0.75
-  rhythmicContrast: 1
+  brandStrength: 0.521396
+  lightness: 0.652027
+  rhythmicContrast: 0.510135
+  saturation: 0.286036
+cta: {}
+layout_spectrum: 0.24417
+name: Kentico
+opengraph: {}
 purpose: []
+typography_spectrum: 0.738738
